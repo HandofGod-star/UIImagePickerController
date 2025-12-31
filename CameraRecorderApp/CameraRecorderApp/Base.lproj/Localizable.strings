@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CameraRecorderApp
+  
+  Base localization strings
+*/
+
+"Camera Recorder" = "Camera Recorder";
+"Tap the button below to start recording videos" = "Tap the button below to start recording videos";
+"Start Recording" = "Start Recording";
+
